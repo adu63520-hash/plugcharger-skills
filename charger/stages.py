@@ -32,3 +32,21 @@ def boundaries(labels):
         result[stage] = [start, end]
         start = end
     return result
+
+
+def classify_failure(labels):
+    """Return (failed_stage, partial_boundaries) for an episode that did not finish.
+
+    `boundaries` stops at the first skill that never completes, so the number of skills it
+    recovered says exactly where the attempt failed: 0 -> A, 1 -> B, 2 -> C, None -> success.
+    Kept here rather than in `collect.py` so it can be tested without mplib installed.
+    """
+    partial = {}
+    start = 0
+    for stage in 'ABC':
+        end = next((i + 1 for i in range(start, len(labels)) if labels[i][stage]), None)
+        if end is None:
+            return stage, partial
+        partial[stage] = [start, end]
+        start = end
+    return None, partial

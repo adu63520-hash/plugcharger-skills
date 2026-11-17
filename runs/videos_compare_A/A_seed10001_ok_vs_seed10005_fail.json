@@ -1,0 +1,12 @@
+{
+  "left": {
+    "seed": 10001,
+    "success": true,
+    "steps": 84
+  },
+  "right": {
+    "seed": 10005,
+    "success": false,
+    "steps": 120
+  }
+}

@@ -1,0 +1,4214 @@
+[
+  {
+    "seed": 0,
+    "success": false,
+    "steps": 150,
+    "final_distance": 0.042327575385570526,
+    "final_angle_deg": 15.86270112090983,
+    "min_distance": 0.014046692289412022,
+    "ever_grasped": true,
+    "trace": [
+      {
+        "step": 1,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1270226538181305,
+        "angle": 0.08219382911920547
+      },
+      {
+        "step": 2,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12709486484527588,
+        "angle": 0.08175161480903625
+      },
+      {
+        "step": 3,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1267249584197998,
+        "angle": 0.08215610682964325
+      },
+      {
+        "step": 4,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12598519027233124,
+        "angle": 0.08219382911920547
+      },
+      {
+        "step": 5,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12527276575565338,
+        "angle": 0.08319742977619171
+      },
+      {
+        "step": 6,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1245916560292244,
+        "angle": 0.08440691977739334
+      },
+      {
+        "step": 7,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12352866679430008,
+        "angle": 0.08461856096982956
+      },
+      {
+        "step": 8,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12180787324905396,
+        "angle": 0.08448881655931473
+      },
+      {
+        "step": 9,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11985214054584503,
+        "angle": 0.08645319938659668
+      },
+      {
+        "step": 10,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11792933940887451,
+        "angle": 0.08674237132072449
+      },
+      {
+        "step": 11,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11628411710262299,
+        "angle": 0.08761505782604218
+      },
+      {
+        "step": 12,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11385470628738403,
+        "angle": 0.08819025009870529
+      },
+      {
+        "step": 13,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11096839606761932,
+        "angle": 0.08938024938106537
+      },
+      {
+        "step": 14,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10856978595256805,
+        "angle": 0.0911426767706871
+      },
+      {
+        "step": 15,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10587985068559647,
+        "angle": 0.09191398322582245
+      },
+      {
+        "step": 16,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1033792793750763,
+        "angle": 0.09332001954317093
+      },
+      {
+        "step": 17,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10097405314445496,
+        "angle": 0.09476058930158615
+      },
+      {
+        "step": 18,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0987304151058197,
+        "angle": 0.09383995085954666
+      },
+      {
+        "step": 19,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0963321402668953,
+        "angle": 0.09190100431442261
+      },
+      {
+        "step": 20,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09336044639348984,
+        "angle": 0.08941493183374405
+      },
+      {
+        "step": 21,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0901162251830101,
+        "angle": 0.08868376165628433
+      },
+      {
+        "step": 22,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.08729489892721176,
+        "angle": 0.08565781265497208
+      },
+      {
+        "step": 23,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0839340016245842,
+        "angle": 0.08208931237459183
+      },
+      {
+        "step": 24,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07959797233343124,
+        "angle": 0.0801132470369339
+      },
+      {
+        "step": 25,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0751652866601944,
+        "angle": 0.07834942638874054
+      },
+      {
+        "step": 26,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07076767086982727,
+        "angle": 0.07612323760986328
+      },
+      {
+        "step": 27,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06602199375629425,
+        "angle": 0.07266444712877274
+      },
+      {
+        "step": 28,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06055457890033722,
+        "angle": 0.06965166330337524
+      },
+      {
+        "step": 29,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.055233296006917953,
+        "angle": 0.0684811994433403
+      },
+      {
+        "step": 30,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.05034836754202843,
+        "angle": 0.06624391674995422
+      },
+      {
+        "step": 31,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04570508003234863,
+        "angle": 0.06346043944358826
+      },
+      {
+        "step": 32,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04110248386859894,
+        "angle": 0.06095738336443901
+      },
+      {
+        "step": 33,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0366746187210083,
+        "angle": 0.05832664296030998
+      },
+      {
+        "step": 34,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03268367052078247,
+        "angle": 0.054532017558813095
+      },
+      {
+        "step": 35,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029163407161831856,
+        "angle": 0.048765815794467926
+      },
+      {
+        "step": 36,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0259532667696476,
+        "angle": 0.043504498898983
+      },
+      {
+        "step": 37,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02293982543051243,
+        "angle": 0.04007544368505478
+      },
+      {
+        "step": 38,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020316625013947487,
+        "angle": 0.03587503358721733
+      },
+      {
+        "step": 39,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01836635358631611,
+        "angle": 0.031779903918504715
+      },
+      {
+        "step": 40,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.016710709780454636,
+        "angle": 0.02846330963075161
+      },
+      {
+        "step": 41,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.015537222847342491,
+        "angle": 0.02760430984199047
+      },
+      {
+        "step": 42,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014911459758877754,
+        "angle": 0.026565566658973694
+      },
+      {
+        "step": 43,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01449621096253395,
+        "angle": 0.025577910244464874
+      },
+      {
+        "step": 44,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014074682258069515,
+        "angle": 0.02554059773683548
+      },
+      {
+        "step": 45,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014046692289412022,
+        "angle": 0.026948729529976845
+      },
+      {
+        "step": 46,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014162550680339336,
+        "angle": 0.02693988010287285
+      },
+      {
+        "step": 47,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014309464022517204,
+        "angle": 0.027862222865223885
+      },
+      {
+        "step": 48,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014476055279374123,
+        "angle": 0.028837794438004494
+      },
+      {
+        "step": 49,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01472709234803915,
+        "angle": 0.028730111196637154
+      },
+      {
+        "step": 50,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.015000147745013237,
+        "angle": 0.029451357200741768
+      },
+      {
+        "step": 51,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.015399724245071411,
+        "angle": 0.029909249395132065
+      },
+      {
+        "step": 52,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01554526761174202,
+        "angle": 0.03102058544754982
+      },
+      {
+        "step": 53,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.015885017812252045,
+        "angle": 0.030618296936154366
+      },
+      {
+        "step": 54,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.017032796517014503,
+        "angle": 0.02606726996600628
+      },
+      {
+        "step": 55,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01815955340862274,
+        "angle": 0.026213206350803375
+      },
+      {
+        "step": 56,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01865384913980961,
+        "angle": 0.027361396700143814
+      },
+      {
+        "step": 57,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01921338029205799,
+        "angle": 0.02915845811367035
+      },
+      {
+        "step": 58,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01982976123690605,
+        "angle": 0.03057933785021305
+      },
+      {
+        "step": 59,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020265303552150726,
+        "angle": 0.032160256057977676
+      },
+      {
+        "step": 60,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02052047848701477,
+        "angle": 0.034214965999126434
+      },
+      {
+        "step": 61,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021145077422261238,
+        "angle": 0.035547878593206406
+      },
+      {
+        "step": 62,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021773414686322212,
+        "angle": 0.03742340952157974
+      },
+      {
+        "step": 63,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022183526307344437,
+        "angle": 0.03950618579983711
+      },
+      {
+        "step": 64,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022514577955007553,
+        "angle": 0.041867855936288834
+      },
+      {
+        "step": 65,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02269166335463524,
+        "angle": 0.04616878554224968
+      },
+      {
+        "step": 66,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022832706570625305,
+        "angle": 0.04865322634577751
+      },
+      {
+        "step": 67,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02278152108192444,
+        "angle": 0.05191565304994583
+      },
+      {
+        "step": 68,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02242695726454258,
+        "angle": 0.0552358403801918
+      },
+      {
+        "step": 69,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022268636152148247,
+        "angle": 0.05889216810464859
+      },
+      {
+        "step": 70,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02249070629477501,
+        "angle": 0.06164589524269104
+      },
+      {
+        "step": 71,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022535480558872223,
+        "angle": 0.06476224958896637
+      },
+      {
+        "step": 72,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0224447101354599,
+        "angle": 0.06840454787015915
+      },
+      {
+        "step": 73,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022293005138635635,
+        "angle": 0.07231243699789047
+      },
+      {
+        "step": 74,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021756155416369438,
+        "angle": 0.0762890949845314
+      },
+      {
+        "step": 75,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020922737196087837,
+        "angle": 0.07931145280599594
+      },
+      {
+        "step": 76,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020153971388936043,
+        "angle": 0.08327192813158035
+      },
+      {
+        "step": 77,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020255427807569504,
+        "angle": 0.08608552068471909
+      },
+      {
+        "step": 78,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020743323490023613,
+        "angle": 0.08734242618083954
+      },
+      {
+        "step": 79,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02104620449244976,
+        "angle": 0.08841442316770554
+      },
+      {
+        "step": 80,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021073346957564354,
+        "angle": 0.09033311158418655
+      },
+      {
+        "step": 81,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021320944651961327,
+        "angle": 0.09267372637987137
+      },
+      {
+        "step": 82,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021672189235687256,
+        "angle": 0.09385266155004501
+      },
+      {
+        "step": 83,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02206260710954666,
+        "angle": 0.09490897506475449
+      },
+      {
+        "step": 84,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022125979885458946,
+        "angle": 0.09620440006256104
+      },
+      {
+        "step": 85,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022196287289261818,
+        "angle": 0.09682221710681915
+      },
+      {
+        "step": 86,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022484786808490753,
+        "angle": 0.09784650802612305
+      },
+      {
+        "step": 87,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022589119151234627,
+        "angle": 0.09911078959703445
+      },
+      {
+        "step": 88,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02265733852982521,
+        "angle": 0.10065817087888718
+      },
+      {
+        "step": 89,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023275814950466156,
+        "angle": 0.10130300372838974
+      },
+      {
+        "step": 90,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02421577274799347,
+        "angle": 0.10253866761922836
+      },
+      {
+        "step": 91,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02497481182217598,
+        "angle": 0.10425956547260284
+      },
+      {
+        "step": 92,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02547094039618969,
+        "angle": 0.10695859789848328
+      },
+      {
+        "step": 93,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026104725897312164,
+        "angle": 0.11007556319236755
+      },
+      {
+        "step": 94,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026751331984996796,
+        "angle": 0.11313626915216446
+      },
+      {
+        "step": 95,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02717871405184269,
+        "angle": 0.11672497540712357
+      },
+      {
+        "step": 96,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02756979502737522,
+        "angle": 0.12006771564483643
+      },
+      {
+        "step": 97,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028186460956931114,
+        "angle": 0.12338573485612869
+      },
+      {
+        "step": 98,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028602097183465958,
+        "angle": 0.12694813311100006
+      },
+      {
+        "step": 99,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02860623225569725,
+        "angle": 0.13094286620616913
+      },
+      {
+        "step": 100,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028395965695381165,
+        "angle": 0.13516411185264587
+      },
+      {
+        "step": 101,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028729191049933434,
+        "angle": 0.13805821537971497
+      },
+      {
+        "step": 102,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029334304854273796,
+        "angle": 0.14090992510318756
+      },
+      {
+        "step": 103,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02949889376759529,
+        "angle": 0.14428183436393738
+      },
+      {
+        "step": 104,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02947031520307064,
+        "angle": 0.1483236402273178
+      },
+      {
+        "step": 105,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029608888551592827,
+        "angle": 0.1526997685432434
+      },
+      {
+        "step": 106,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029765721410512924,
+        "angle": 0.15566395223140717
+      },
+      {
+        "step": 107,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029508328065276146,
+        "angle": 0.1588720828294754
+      },
+      {
+        "step": 108,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028914818540215492,
+        "angle": 0.1627194881439209
+      },
+      {
+        "step": 109,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02874486707150936,
+        "angle": 0.16656850278377533
+      },
+      {
+        "step": 110,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028693027794361115,
+        "angle": 0.17055204510688782
+      },
+      {
+        "step": 111,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028742916882038116,
+        "angle": 0.1742928922176361
+      },
+      {
+        "step": 112,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02887181006371975,
+        "angle": 0.17810148000717163
+      },
+      {
+        "step": 113,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029636165127158165,
+        "angle": 0.1792905181646347
+      },
+      {
+        "step": 114,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030731400474905968,
+        "angle": 0.18003332614898682
+      },
+      {
+        "step": 115,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.031538426876068115,
+        "angle": 0.18213094770908356
+      },
+      {
+        "step": 116,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03205427899956703,
+        "angle": 0.18529419600963593
+      },
+      {
+        "step": 117,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.032848939299583435,
+        "angle": 0.18732671439647675
+      },
+      {
+        "step": 118,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.033836379647254944,
+        "angle": 0.1879197508096695
+      },
+      {
+        "step": 119,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03440777584910393,
+        "angle": 0.1897469013929367
+      },
+      {
+        "step": 120,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03470464050769806,
+        "angle": 0.19137834012508392
+      },
+      {
+        "step": 121,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03494536876678467,
+        "angle": 0.1922919750213623
+      },
+      {
+        "step": 122,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.034995339810848236,
+        "angle": 0.19412115216255188
+      },
+      {
+        "step": 123,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03495396301150322,
+        "angle": 0.19567841291427612
+      },
+      {
+        "step": 124,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03496120125055313,
+        "angle": 0.19704656302928925
+      },
+      {
+        "step": 125,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03516000881791115,
+        "angle": 0.19875405728816986
+      },
+      {
+        "step": 126,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.035474881529808044,
+        "angle": 0.20106206834316254
+      },
+      {
+        "step": 127,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03587353974580765,
+        "angle": 0.20398661494255066
+      },
+      {
+        "step": 128,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03622206673026085,
+        "angle": 0.20746715366840363
+      },
+      {
+        "step": 129,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.036567237228155136,
+        "angle": 0.21126164495944977
+      },
+      {
+        "step": 130,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.036849699914455414,
+        "angle": 0.2148604840040207
+      },
+      {
+        "step": 131,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.037074968218803406,
+        "angle": 0.21871286630630493
+      },
+      {
+        "step": 132,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03709781914949417,
+        "angle": 0.22305113077163696
+      },
+      {
+        "step": 133,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03699754178524017,
+        "angle": 0.22689346969127655
+      },
+      {
+        "step": 134,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.036887962371110916,
+        "angle": 0.23104366660118103
+      },
+      {
+        "step": 135,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03688642755150795,
+        "angle": 0.2347547709941864
+      },
+      {
+        "step": 136,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.036907859146595,
+        "angle": 0.23841337859630585
+      },
+      {
+        "step": 137,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.037195056676864624,
+        "angle": 0.2416839301586151
+      },
+      {
+        "step": 138,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.037708137184381485,
+        "angle": 0.24450859427452087
+      },
+      {
+        "step": 139,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03805799409747124,
+        "angle": 0.24752916395664215
+      },
+      {
+        "step": 140,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03843124210834503,
+        "angle": 0.24997855722904205
+      },
+      {
+        "step": 141,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.039061255753040314,
+        "angle": 0.25462034344673157
+      },
+      {
+        "step": 142,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03978922590613365,
+        "angle": 0.2577020525932312
+      },
+      {
+        "step": 143,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.040318574756383896,
+        "angle": 0.2605026066303253
+      },
+      {
+        "step": 144,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.040597010403871536,
+        "angle": 0.26386862993240356
+      },
+      {
+        "step": 145,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04111631214618683,
+        "angle": 0.265951931476593
+      },
+      {
+        "step": 146,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04163210093975067,
+        "angle": 0.2682901918888092
+      },
+      {
+        "step": 147,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.041872914880514145,
+        "angle": 0.2704784572124481
+      },
+      {
+        "step": 148,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04201686754822731,
+        "angle": 0.27255189418792725
+      },
+      {
+        "step": 149,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04221126809716225,
+        "angle": 0.27414339780807495
+      },
+      {
+        "step": 150,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.042327575385570526,
+        "angle": 0.27685636281967163
+      }
+    ]
+  },
+  {
+    "seed": 139,
+    "success": false,
+    "steps": 150,
+    "final_distance": 0.02777654491364956,
+    "final_angle_deg": 3.473046605679818,
+    "min_distance": 0.019156789407134056,
+    "ever_grasped": true,
+    "trace": [
+      {
+        "step": 1,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13717414438724518,
+        "angle": 0.4914156198501587
+      },
+      {
+        "step": 2,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13656017184257507,
+        "angle": 0.4868987798690796
+      },
+      {
+        "step": 3,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13538600504398346,
+        "angle": 0.48046770691871643
+      },
+      {
+        "step": 4,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13398711383342743,
+        "angle": 0.47255977988243103
+      },
+      {
+        "step": 5,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13224585354328156,
+        "angle": 0.4626464545726776
+      },
+      {
+        "step": 6,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13082458078861237,
+        "angle": 0.4533545970916748
+      },
+      {
+        "step": 7,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12912848591804504,
+        "angle": 0.44316598773002625
+      },
+      {
+        "step": 8,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12706033885478973,
+        "angle": 0.43107596039772034
+      },
+      {
+        "step": 9,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1249789372086525,
+        "angle": 0.41903412342071533
+      },
+      {
+        "step": 10,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12304135411977768,
+        "angle": 0.4055339992046356
+      },
+      {
+        "step": 11,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12070361524820328,
+        "angle": 0.3919801414012909
+      },
+      {
+        "step": 12,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11789687722921371,
+        "angle": 0.37588024139404297
+      },
+      {
+        "step": 13,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1139698177576065,
+        "angle": 0.3547836244106293
+      },
+      {
+        "step": 14,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10903432220220566,
+        "angle": 0.3310679495334625
+      },
+      {
+        "step": 15,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10341312736272812,
+        "angle": 0.30533429980278015
+      },
+      {
+        "step": 16,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09755280613899231,
+        "angle": 0.27745872735977173
+      },
+      {
+        "step": 17,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09145575761795044,
+        "angle": 0.24993552267551422
+      },
+      {
+        "step": 18,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.08503342419862747,
+        "angle": 0.21966327726840973
+      },
+      {
+        "step": 19,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07828472554683685,
+        "angle": 0.18794260919094086
+      },
+      {
+        "step": 20,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07118130475282669,
+        "angle": 0.15571913123130798
+      },
+      {
+        "step": 21,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06412240862846375,
+        "angle": 0.1243506669998169
+      },
+      {
+        "step": 22,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.057772327214479446,
+        "angle": 0.09469261020421982
+      },
+      {
+        "step": 23,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.051596418023109436,
+        "angle": 0.06511110812425613
+      },
+      {
+        "step": 24,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04542835056781769,
+        "angle": 0.03570181503891945
+      },
+      {
+        "step": 25,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03945128247141838,
+        "angle": 0.013999316841363907
+      },
+      {
+        "step": 26,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.034901008009910583,
+        "angle": 0.02162826433777809
+      },
+      {
+        "step": 27,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03134102746844292,
+        "angle": 0.04108024016022682
+      },
+      {
+        "step": 28,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028005635365843773,
+        "angle": 0.060122355818748474
+      },
+      {
+        "step": 29,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025269687175750732,
+        "angle": 0.07650759816169739
+      },
+      {
+        "step": 30,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02338789775967598,
+        "angle": 0.09087274968624115
+      },
+      {
+        "step": 31,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021881038323044777,
+        "angle": 0.10520926117897034
+      },
+      {
+        "step": 32,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020522654056549072,
+        "angle": 0.11719409376382828
+      },
+      {
+        "step": 33,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.019704028964042664,
+        "angle": 0.12594057619571686
+      },
+      {
+        "step": 34,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01952757127583027,
+        "angle": 0.13327087461948395
+      },
+      {
+        "step": 35,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.019398506730794907,
+        "angle": 0.13975366950035095
+      },
+      {
+        "step": 36,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.019156789407134056,
+        "angle": 0.1449122428894043
+      },
+      {
+        "step": 37,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.019176267087459564,
+        "angle": 0.14889371395111084
+      },
+      {
+        "step": 38,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01960371434688568,
+        "angle": 0.15172140300273895
+      },
+      {
+        "step": 39,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.019846703857183456,
+        "angle": 0.1535569429397583
+      },
+      {
+        "step": 40,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0198490172624588,
+        "angle": 0.15553204715251923
+      },
+      {
+        "step": 41,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020558958873152733,
+        "angle": 0.15451598167419434
+      },
+      {
+        "step": 42,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021695060655474663,
+        "angle": 0.15373091399669647
+      },
+      {
+        "step": 43,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022494666278362274,
+        "angle": 0.15225368738174438
+      },
+      {
+        "step": 44,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02263651043176651,
+        "angle": 0.15167421102523804
+      },
+      {
+        "step": 45,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02309776283800602,
+        "angle": 0.1495286524295807
+      },
+      {
+        "step": 46,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0241091288626194,
+        "angle": 0.14799346029758453
+      },
+      {
+        "step": 47,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02492678165435791,
+        "angle": 0.14550712704658508
+      },
+      {
+        "step": 48,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025257881730794907,
+        "angle": 0.14481998980045319
+      },
+      {
+        "step": 49,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026361286640167236,
+        "angle": 0.14103010296821594
+      },
+      {
+        "step": 50,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02818763442337513,
+        "angle": 0.13780565559864044
+      },
+      {
+        "step": 51,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029492611065506935,
+        "angle": 0.13480883836746216
+      },
+      {
+        "step": 52,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030179642140865326,
+        "angle": 0.1321869194507599
+      },
+      {
+        "step": 53,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030723068863153458,
+        "angle": 0.12962618470191956
+      },
+      {
+        "step": 54,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03151211142539978,
+        "angle": 0.12767525017261505
+      },
+      {
+        "step": 55,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03204932063817978,
+        "angle": 0.12503370642662048
+      },
+      {
+        "step": 56,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.031854383647441864,
+        "angle": 0.12337026745080948
+      },
+      {
+        "step": 57,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03150495886802673,
+        "angle": 0.12307016551494598
+      },
+      {
+        "step": 58,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03130284696817398,
+        "angle": 0.12260404974222183
+      },
+      {
+        "step": 59,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.031008319929242134,
+        "angle": 0.12096837162971497
+      },
+      {
+        "step": 60,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030757581815123558,
+        "angle": 0.11909416317939758
+      },
+      {
+        "step": 61,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.031282052397727966,
+        "angle": 0.11734869331121445
+      },
+      {
+        "step": 62,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03173712268471718,
+        "angle": 0.11574602127075195
+      },
+      {
+        "step": 63,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03150211647152901,
+        "angle": 0.11482937633991241
+      },
+      {
+        "step": 64,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030735798180103302,
+        "angle": 0.1139514222741127
+      },
+      {
+        "step": 65,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02966928668320179,
+        "angle": 0.11344999819993973
+      },
+      {
+        "step": 66,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028938375413417816,
+        "angle": 0.11351305991411209
+      },
+      {
+        "step": 67,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028534242883324623,
+        "angle": 0.11247862130403519
+      },
+      {
+        "step": 68,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028165210038423538,
+        "angle": 0.11193437874317169
+      },
+      {
+        "step": 69,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02765655890107155,
+        "angle": 0.11100778728723526
+      },
+      {
+        "step": 70,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027332337573170662,
+        "angle": 0.11008422821760178
+      },
+      {
+        "step": 71,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027010096237063408,
+        "angle": 0.10816720128059387
+      },
+      {
+        "step": 72,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026756998151540756,
+        "angle": 0.10721253603696823
+      },
+      {
+        "step": 73,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026507310569286346,
+        "angle": 0.10643322765827179
+      },
+      {
+        "step": 74,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026377525180578232,
+        "angle": 0.10505951941013336
+      },
+      {
+        "step": 75,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026286281645298004,
+        "angle": 0.10290323197841644
+      },
+      {
+        "step": 76,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02616158500313759,
+        "angle": 0.10055859386920929
+      },
+      {
+        "step": 77,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026140980422496796,
+        "angle": 0.09788306057453156
+      },
+      {
+        "step": 78,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026522306725382805,
+        "angle": 0.0953652486205101
+      },
+      {
+        "step": 79,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02688138745725155,
+        "angle": 0.0925501137971878
+      },
+      {
+        "step": 80,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02689804881811142,
+        "angle": 0.08983007073402405
+      },
+      {
+        "step": 81,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027041850611567497,
+        "angle": 0.08720578998327255
+      },
+      {
+        "step": 82,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0274957362562418,
+        "angle": 0.0847284123301506
+      },
+      {
+        "step": 83,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027569832280278206,
+        "angle": 0.08190025389194489
+      },
+      {
+        "step": 84,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027522938326001167,
+        "angle": 0.07983890920877457
+      },
+      {
+        "step": 85,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026955554261803627,
+        "angle": 0.08136270195245743
+      },
+      {
+        "step": 86,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026771841570734978,
+        "angle": 0.08027086406946182
+      },
+      {
+        "step": 87,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026970408856868744,
+        "angle": 0.07677209377288818
+      },
+      {
+        "step": 88,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027179822325706482,
+        "angle": 0.07446359097957611
+      },
+      {
+        "step": 89,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027018658816814423,
+        "angle": 0.07746170461177826
+      },
+      {
+        "step": 90,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026871584355831146,
+        "angle": 0.07892563194036484
+      },
+      {
+        "step": 91,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026594001799821854,
+        "angle": 0.07901924848556519
+      },
+      {
+        "step": 92,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0263824462890625,
+        "angle": 0.07940761744976044
+      },
+      {
+        "step": 93,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02655729465186596,
+        "angle": 0.07954864203929901
+      },
+      {
+        "step": 94,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027095230296254158,
+        "angle": 0.08027086406946182
+      },
+      {
+        "step": 95,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02746778354048729,
+        "angle": 0.08046967536211014
+      },
+      {
+        "step": 96,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027597816661000252,
+        "angle": 0.08069459348917007
+      },
+      {
+        "step": 97,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0281965434551239,
+        "angle": 0.07924827933311462
+      },
+      {
+        "step": 98,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029040981084108353,
+        "angle": 0.07839202880859375
+      },
+      {
+        "step": 99,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02959865890443325,
+        "angle": 0.07684660702943802
+      },
+      {
+        "step": 100,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030051374807953835,
+        "angle": 0.07596330344676971
+      },
+      {
+        "step": 101,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03014952875673771,
+        "angle": 0.07531065493822098
+      },
+      {
+        "step": 102,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030484242364764214,
+        "angle": 0.0749933272600174
+      },
+      {
+        "step": 103,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030534857884049416,
+        "angle": 0.07512041926383972
+      },
+      {
+        "step": 104,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030340753495693207,
+        "angle": 0.07437706738710403
+      },
+      {
+        "step": 105,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029786033555865288,
+        "angle": 0.07431933283805847
+      },
+      {
+        "step": 106,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02903604693710804,
+        "angle": 0.0756487175822258
+      },
+      {
+        "step": 107,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028590857982635498,
+        "angle": 0.07526947557926178
+      },
+      {
+        "step": 108,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028652047738432884,
+        "angle": 0.07389779388904572
+      },
+      {
+        "step": 109,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02851211279630661,
+        "angle": 0.07402676343917847
+      },
+      {
+        "step": 110,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028377532958984375,
+        "angle": 0.07368125766515732
+      },
+      {
+        "step": 111,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028268257156014442,
+        "angle": 0.07357762008905411
+      },
+      {
+        "step": 112,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028378667309880257,
+        "angle": 0.0711321011185646
+      },
+      {
+        "step": 113,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02856852114200592,
+        "angle": 0.06918103247880936
+      },
+      {
+        "step": 114,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028590383008122444,
+        "angle": 0.06811108440160751
+      },
+      {
+        "step": 115,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028415005654096603,
+        "angle": 0.06707386672496796
+      },
+      {
+        "step": 116,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02846631035208702,
+        "angle": 0.0664810761809349
+      },
+      {
+        "step": 117,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02863142266869545,
+        "angle": 0.06457788497209549
+      },
+      {
+        "step": 118,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028662366792559624,
+        "angle": 0.06365928053855896
+      },
+      {
+        "step": 119,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028378048911690712,
+        "angle": 0.062185078859329224
+      },
+      {
+        "step": 120,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028394361957907677,
+        "angle": 0.06056100130081177
+      },
+      {
+        "step": 121,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028386011719703674,
+        "angle": 0.05894478037953377
+      },
+      {
+        "step": 122,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028125464916229248,
+        "angle": 0.059432253241539
+      },
+      {
+        "step": 123,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027735013514757156,
+        "angle": 0.05841243267059326
+      },
+      {
+        "step": 124,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02763080969452858,
+        "angle": 0.05773080885410309
+      },
+      {
+        "step": 125,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027306774631142616,
+        "angle": 0.05591375380754471
+      },
+      {
+        "step": 126,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027118485420942307,
+        "angle": 0.055015236139297485
+      },
+      {
+        "step": 127,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.027064399793744087,
+        "angle": 0.05434366688132286
+      },
+      {
+        "step": 128,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02673839032649994,
+        "angle": 0.05264086648821831
+      },
+      {
+        "step": 129,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026432212442159653,
+        "angle": 0.05203951522707939
+      },
+      {
+        "step": 130,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02641611546278,
+        "angle": 0.0517638623714447
+      },
+      {
+        "step": 131,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026368005201220512,
+        "angle": 0.05127326026558876
+      },
+      {
+        "step": 132,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026092739775776863,
+        "angle": 0.051198799163103104
+      },
+      {
+        "step": 133,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02540588192641735,
+        "angle": 0.051194142550230026
+      },
+      {
+        "step": 134,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.024899477139115334,
+        "angle": 0.05261821299791336
+      },
+      {
+        "step": 135,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.024806981906294823,
+        "angle": 0.05208989232778549
+      },
+      {
+        "step": 136,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02480257675051689,
+        "angle": 0.05114288255572319
+      },
+      {
+        "step": 137,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025104627013206482,
+        "angle": 0.05024923384189606
+      },
+      {
+        "step": 138,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02550656907260418,
+        "angle": 0.0494697168469429
+      },
+      {
+        "step": 139,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02566639892756939,
+        "angle": 0.04982033371925354
+      },
+      {
+        "step": 140,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025764014571905136,
+        "angle": 0.04969094321131706
+      },
+      {
+        "step": 141,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025937655940651894,
+        "angle": 0.04989207535982132
+      },
+      {
+        "step": 142,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026352645829319954,
+        "angle": 0.05074033886194229
+      },
+      {
+        "step": 143,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026622457429766655,
+        "angle": 0.05137546733021736
+      },
+      {
+        "step": 144,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026674000546336174,
+        "angle": 0.05253203958272934
+      },
+      {
+        "step": 145,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02671067789196968,
+        "angle": 0.052441179752349854
+      },
+      {
+        "step": 146,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02683083340525627,
+        "angle": 0.05333387479186058
+      },
+      {
+        "step": 147,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026911204680800438,
+        "angle": 0.054185476154088974
+      },
+      {
+        "step": 148,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02696249447762966,
+        "angle": 0.055093199014663696
+      },
+      {
+        "step": 149,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02724307030439377,
+        "angle": 0.057132937014102936
+      },
+      {
+        "step": 150,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02777654491364956,
+        "angle": 0.06061609834432602
+      }
+    ]
+  },
+  {
+    "seed": 205,
+    "success": true,
+    "steps": 71,
+    "final_distance": 0.009413901716470718,
+    "final_angle_deg": 2.84405533878699,
+    "min_distance": 0.009413901716470718,
+    "ever_grasped": true,
+    "trace": [
+      {
+        "step": 1,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1493198424577713,
+        "angle": 0.8652781844139099
+      },
+      {
+        "step": 2,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14886681735515594,
+        "angle": 0.8633034229278564
+      },
+      {
+        "step": 3,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14749328792095184,
+        "angle": 0.8588604927062988
+      },
+      {
+        "step": 4,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14625383913516998,
+        "angle": 0.854922890663147
+      },
+      {
+        "step": 5,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14545835554599762,
+        "angle": 0.8514091372489929
+      },
+      {
+        "step": 6,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14494307339191437,
+        "angle": 0.8479888439178467
+      },
+      {
+        "step": 7,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14448781311511993,
+        "angle": 0.844163715839386
+      },
+      {
+        "step": 8,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14354947209358215,
+        "angle": 0.8390096426010132
+      },
+      {
+        "step": 9,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14278295636177063,
+        "angle": 0.8324843049049377
+      },
+      {
+        "step": 10,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14207802712917328,
+        "angle": 0.825068473815918
+      },
+      {
+        "step": 11,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.14074711501598358,
+        "angle": 0.8152143955230713
+      },
+      {
+        "step": 12,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1390833705663681,
+        "angle": 0.8032796382904053
+      },
+      {
+        "step": 13,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13732779026031494,
+        "angle": 0.7912495732307434
+      },
+      {
+        "step": 14,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13567860424518585,
+        "angle": 0.7792901396751404
+      },
+      {
+        "step": 15,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1338007003068924,
+        "angle": 0.7642090916633606
+      },
+      {
+        "step": 16,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1313980370759964,
+        "angle": 0.7470811605453491
+      },
+      {
+        "step": 17,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12851209938526154,
+        "angle": 0.7285964488983154
+      },
+      {
+        "step": 18,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1257593333721161,
+        "angle": 0.7086690664291382
+      },
+      {
+        "step": 19,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12298145890235901,
+        "angle": 0.6874449253082275
+      },
+      {
+        "step": 20,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11966778337955475,
+        "angle": 0.6647815108299255
+      },
+      {
+        "step": 21,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11613916605710983,
+        "angle": 0.6425095200538635
+      },
+      {
+        "step": 22,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11304978281259537,
+        "angle": 0.6189808249473572
+      },
+      {
+        "step": 23,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10994118452072144,
+        "angle": 0.5949258208274841
+      },
+      {
+        "step": 24,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10650542378425598,
+        "angle": 0.5695023536682129
+      },
+      {
+        "step": 25,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1026991605758667,
+        "angle": 0.5437825918197632
+      },
+      {
+        "step": 26,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09927085787057877,
+        "angle": 0.5173691511154175
+      },
+      {
+        "step": 27,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09633510559797287,
+        "angle": 0.49206846952438354
+      },
+      {
+        "step": 28,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09328321367502213,
+        "angle": 0.46602553129196167
+      },
+      {
+        "step": 29,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09025750309228897,
+        "angle": 0.4408716857433319
+      },
+      {
+        "step": 30,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.08723252266645432,
+        "angle": 0.41578972339630127
+      },
+      {
+        "step": 31,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.08435120433568954,
+        "angle": 0.39102405309677124
+      },
+      {
+        "step": 32,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.08153703063726425,
+        "angle": 0.365355521440506
+      },
+      {
+        "step": 33,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07856182008981705,
+        "angle": 0.3411729633808136
+      },
+      {
+        "step": 34,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07572636753320694,
+        "angle": 0.31831759214401245
+      },
+      {
+        "step": 35,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0728769451379776,
+        "angle": 0.2954036593437195
+      },
+      {
+        "step": 36,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06997596472501755,
+        "angle": 0.2718093991279602
+      },
+      {
+        "step": 37,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06697658449411392,
+        "angle": 0.24911262094974518
+      },
+      {
+        "step": 38,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06386224180459976,
+        "angle": 0.2271628975868225
+      },
+      {
+        "step": 39,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06052018329501152,
+        "angle": 0.2056552618741989
+      },
+      {
+        "step": 40,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.05711623653769493,
+        "angle": 0.18374665081501007
+      },
+      {
+        "step": 41,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.05348092317581177,
+        "angle": 0.16131408512592316
+      },
+      {
+        "step": 42,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.049606017768383026,
+        "angle": 0.1405249983072281
+      },
+      {
+        "step": 43,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04600183293223381,
+        "angle": 0.12166254222393036
+      },
+      {
+        "step": 44,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04292935132980347,
+        "angle": 0.10378491133451462
+      },
+      {
+        "step": 45,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03988143801689148,
+        "angle": 0.08262791484594345
+      },
+      {
+        "step": 46,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03691905736923218,
+        "angle": 0.06583226472139359
+      },
+      {
+        "step": 47,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03445367142558098,
+        "angle": 0.05112423002719879
+      },
+      {
+        "step": 48,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.032575637102127075,
+        "angle": 0.038149066269397736
+      },
+      {
+        "step": 49,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030181195586919785,
+        "angle": 0.02434575743973255
+      },
+      {
+        "step": 50,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0277489572763443,
+        "angle": 0.015471698716282845
+      },
+      {
+        "step": 51,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025845585390925407,
+        "angle": 0.017026999965310097
+      },
+      {
+        "step": 52,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02425242029130459,
+        "angle": 0.024618441238999367
+      },
+      {
+        "step": 53,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022274015471339226,
+        "angle": 0.035143136978149414
+      },
+      {
+        "step": 54,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.020417338237166405,
+        "angle": 0.04439424350857735
+      },
+      {
+        "step": 55,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.019207552075386047,
+        "angle": 0.05208073556423187
+      },
+      {
+        "step": 56,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01835433579981327,
+        "angle": 0.058240726590156555
+      },
+      {
+        "step": 57,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.01696925424039364,
+        "angle": 0.06240709125995636
+      },
+      {
+        "step": 58,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.015606497414410114,
+        "angle": 0.06582140177488327
+      },
+      {
+        "step": 59,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014898786321282387,
+        "angle": 0.06687091290950775
+      },
+      {
+        "step": 60,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.014375269412994385,
+        "angle": 0.06723365932703018
+      },
+      {
+        "step": 61,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.013787081465125084,
+        "angle": 0.06676741689443588
+      },
+      {
+        "step": 62,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.013262731954455376,
+        "angle": 0.06588295847177505
+      },
+      {
+        "step": 63,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.012920248322188854,
+        "angle": 0.06525013595819473
+      },
+      {
+        "step": 64,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.012596596032381058,
+        "angle": 0.06384256482124329
+      },
+      {
+        "step": 65,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.012398269958794117,
+        "angle": 0.06074970215559006
+      },
+      {
+        "step": 66,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.012025530450046062,
+        "angle": 0.0592554546892643
+      },
+      {
+        "step": 67,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.011758649721741676,
+        "angle": 0.0577225461602211
+      },
+      {
+        "step": 68,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.011455390602350235,
+        "angle": 0.05628778785467148
+      },
+      {
+        "step": 69,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.010940313339233398,
+        "angle": 0.05344998836517334
+      },
+      {
+        "step": 70,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.010124653577804565,
+        "angle": 0.05130115523934364
+      },
+      {
+        "step": 71,
+        "A": true,
+        "B": true,
+        "C": false,
+        "distance": 0.009413901716470718,
+        "angle": 0.04963812977075577
+      }
+    ]
+  },
+  {
+    "seed": 57,
+    "success": false,
+    "steps": 150,
+    "final_distance": 0.03706887364387512,
+    "final_angle_deg": 16.48042855208766,
+    "min_distance": 0.021499264985322952,
+    "ever_grasped": true,
+    "trace": [
+      {
+        "step": 1,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.13012871146202087,
+        "angle": 0.5161411762237549
+      },
+      {
+        "step": 2,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12995555996894836,
+        "angle": 0.5146452784538269
+      },
+      {
+        "step": 3,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12987962365150452,
+        "angle": 0.5118945837020874
+      },
+      {
+        "step": 4,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12929578125476837,
+        "angle": 0.5091818571090698
+      },
+      {
+        "step": 5,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12843146920204163,
+        "angle": 0.5091695189476013
+      },
+      {
+        "step": 6,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1277981996536255,
+        "angle": 0.5069490671157837
+      },
+      {
+        "step": 7,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12722715735435486,
+        "angle": 0.5036001205444336
+      },
+      {
+        "step": 8,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12648747861385345,
+        "angle": 0.49987277388572693
+      },
+      {
+        "step": 9,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12523290514945984,
+        "angle": 0.49629566073417664
+      },
+      {
+        "step": 10,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1236300840973854,
+        "angle": 0.4915146231651306
+      },
+      {
+        "step": 11,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12216362357139587,
+        "angle": 0.4854218661785126
+      },
+      {
+        "step": 12,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.12046678364276886,
+        "angle": 0.4791979491710663
+      },
+      {
+        "step": 13,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11880488693714142,
+        "angle": 0.47165602445602417
+      },
+      {
+        "step": 14,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1172807514667511,
+        "angle": 0.46309080719947815
+      },
+      {
+        "step": 15,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11525612324476242,
+        "angle": 0.45468881726264954
+      },
+      {
+        "step": 16,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.11263534426689148,
+        "angle": 0.4470718204975128
+      },
+      {
+        "step": 17,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10959038138389587,
+        "angle": 0.4395727813243866
+      },
+      {
+        "step": 18,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.1062307134270668,
+        "angle": 0.43044397234916687
+      },
+      {
+        "step": 19,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.10221781581640244,
+        "angle": 0.42190513014793396
+      },
+      {
+        "step": 20,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09810059517621994,
+        "angle": 0.41340285539627075
+      },
+      {
+        "step": 21,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09441236406564713,
+        "angle": 0.400505930185318
+      },
+      {
+        "step": 22,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.09068778902292252,
+        "angle": 0.3865232467651367
+      },
+      {
+        "step": 23,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0866677463054657,
+        "angle": 0.37560322880744934
+      },
+      {
+        "step": 24,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.08248378336429596,
+        "angle": 0.3638332784175873
+      },
+      {
+        "step": 25,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07788047194480896,
+        "angle": 0.347709059715271
+      },
+      {
+        "step": 26,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07382019609212875,
+        "angle": 0.3313087522983551
+      },
+      {
+        "step": 27,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.07062375545501709,
+        "angle": 0.31586745381355286
+      },
+      {
+        "step": 28,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06746397167444229,
+        "angle": 0.3013959228992462
+      },
+      {
+        "step": 29,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06421120464801788,
+        "angle": 0.28777164220809937
+      },
+      {
+        "step": 30,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.06097066029906273,
+        "angle": 0.27161312103271484
+      },
+      {
+        "step": 31,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.05794137343764305,
+        "angle": 0.25353264808654785
+      },
+      {
+        "step": 32,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.055340174585580826,
+        "angle": 0.2370280772447586
+      },
+      {
+        "step": 33,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.05280403047800064,
+        "angle": 0.22019770741462708
+      },
+      {
+        "step": 34,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.05022222548723221,
+        "angle": 0.20264866948127747
+      },
+      {
+        "step": 35,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04773340001702309,
+        "angle": 0.18510855734348297
+      },
+      {
+        "step": 36,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.045407358556985855,
+        "angle": 0.16759996116161346
+      },
+      {
+        "step": 37,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.042906031012535095,
+        "angle": 0.1496865600347519
+      },
+      {
+        "step": 38,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.04034453257918358,
+        "angle": 0.13012035191059113
+      },
+      {
+        "step": 39,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03775520250201225,
+        "angle": 0.11143244802951813
+      },
+      {
+        "step": 40,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.035395409911870956,
+        "angle": 0.09114006161689758
+      },
+      {
+        "step": 41,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.032800719141960144,
+        "angle": 0.07023128867149353
+      },
+      {
+        "step": 42,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03005305677652359,
+        "angle": 0.04963332787156105
+      },
+      {
+        "step": 43,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02766277827322483,
+        "angle": 0.032403986901044846
+      },
+      {
+        "step": 44,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.025992825627326965,
+        "angle": 0.021193981170654297
+      },
+      {
+        "step": 45,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.024931596592068672,
+        "angle": 0.0198221355676651
+      },
+      {
+        "step": 46,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02430710569024086,
+        "angle": 0.029002681374549866
+      },
+      {
+        "step": 47,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023889651522040367,
+        "angle": 0.04247846081852913
+      },
+      {
+        "step": 48,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023554261773824692,
+        "angle": 0.055956386029720306
+      },
+      {
+        "step": 49,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023280395194888115,
+        "angle": 0.07125603407621384
+      },
+      {
+        "step": 50,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023112334311008453,
+        "angle": 0.08216191083192825
+      },
+      {
+        "step": 51,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022969044744968414,
+        "angle": 0.09183090925216675
+      },
+      {
+        "step": 52,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022966252639889717,
+        "angle": 0.09947831183671951
+      },
+      {
+        "step": 53,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022998668253421783,
+        "angle": 0.10648252069950104
+      },
+      {
+        "step": 54,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023123687133193016,
+        "angle": 0.1140497699379921
+      },
+      {
+        "step": 55,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023161055520176888,
+        "angle": 0.11822767555713654
+      },
+      {
+        "step": 56,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023079603910446167,
+        "angle": 0.12138377875089645
+      },
+      {
+        "step": 57,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0229398924857378,
+        "angle": 0.12602011859416962
+      },
+      {
+        "step": 58,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02269168756902218,
+        "angle": 0.12919476628303528
+      },
+      {
+        "step": 59,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022312521934509277,
+        "angle": 0.13116498291492462
+      },
+      {
+        "step": 60,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021939856931567192,
+        "angle": 0.13193398714065552
+      },
+      {
+        "step": 61,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02205018512904644,
+        "angle": 0.13400466740131378
+      },
+      {
+        "step": 62,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02262423373758793,
+        "angle": 0.1363399773836136
+      },
+      {
+        "step": 63,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023035839200019836,
+        "angle": 0.13619288802146912
+      },
+      {
+        "step": 64,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022997800260782242,
+        "angle": 0.136089488863945
+      },
+      {
+        "step": 65,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022915799170732498,
+        "angle": 0.13796831667423248
+      },
+      {
+        "step": 66,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022895023226737976,
+        "angle": 0.13978441059589386
+      },
+      {
+        "step": 67,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022762849926948547,
+        "angle": 0.1411738395690918
+      },
+      {
+        "step": 68,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022582432255148888,
+        "angle": 0.14290419220924377
+      },
+      {
+        "step": 69,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022576965391635895,
+        "angle": 0.14513108134269714
+      },
+      {
+        "step": 70,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02273261547088623,
+        "angle": 0.14784665405750275
+      },
+      {
+        "step": 71,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022748129442334175,
+        "angle": 0.1487221121788025
+      },
+      {
+        "step": 72,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022438906133174896,
+        "angle": 0.14997485280036926
+      },
+      {
+        "step": 73,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02206834964454174,
+        "angle": 0.15252149105072021
+      },
+      {
+        "step": 74,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021754253655672073,
+        "angle": 0.15451443195343018
+      },
+      {
+        "step": 75,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021565211936831474,
+        "angle": 0.15588150918483734
+      },
+      {
+        "step": 76,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021499264985322952,
+        "angle": 0.15601159632205963
+      },
+      {
+        "step": 77,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021608227863907814,
+        "angle": 0.15565015375614166
+      },
+      {
+        "step": 78,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021918434649705887,
+        "angle": 0.15536776185035706
+      },
+      {
+        "step": 79,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022175177931785583,
+        "angle": 0.15595650672912598
+      },
+      {
+        "step": 80,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022248581051826477,
+        "angle": 0.15598559379577637
+      },
+      {
+        "step": 81,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02212618850171566,
+        "angle": 0.15702711045742035
+      },
+      {
+        "step": 82,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022113751620054245,
+        "angle": 0.1583695262670517
+      },
+      {
+        "step": 83,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02229081094264984,
+        "angle": 0.1591767519712448
+      },
+      {
+        "step": 84,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02236740104854107,
+        "angle": 0.1595182567834854
+      },
+      {
+        "step": 85,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022466350346803665,
+        "angle": 0.16091707348823547
+      },
+      {
+        "step": 86,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02249419316649437,
+        "angle": 0.16183848679065704
+      },
+      {
+        "step": 87,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02249392308294773,
+        "angle": 0.16225384175777435
+      },
+      {
+        "step": 88,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022500410676002502,
+        "angle": 0.16270188987255096
+      },
+      {
+        "step": 89,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022176101803779602,
+        "angle": 0.1626945585012436
+      },
+      {
+        "step": 90,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021710602566599846,
+        "angle": 0.16445723176002502
+      },
+      {
+        "step": 91,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02160259336233139,
+        "angle": 0.1653560847043991
+      },
+      {
+        "step": 92,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021538086235523224,
+        "angle": 0.16607482731342316
+      },
+      {
+        "step": 93,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021651040762662888,
+        "angle": 0.16542823612689972
+      },
+      {
+        "step": 94,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021875225007534027,
+        "angle": 0.16612942516803741
+      },
+      {
+        "step": 95,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022502852603793144,
+        "angle": 0.16777931153774261
+      },
+      {
+        "step": 96,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022961275652050972,
+        "angle": 0.1651553064584732
+      },
+      {
+        "step": 97,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022878708317875862,
+        "angle": 0.16579432785511017
+      },
+      {
+        "step": 98,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022671181708574295,
+        "angle": 0.16662009060382843
+      },
+      {
+        "step": 99,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022529669106006622,
+        "angle": 0.16725066304206848
+      },
+      {
+        "step": 100,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022570326924324036,
+        "angle": 0.16760993003845215
+      },
+      {
+        "step": 101,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02239844761788845,
+        "angle": 0.16868172585964203
+      },
+      {
+        "step": 102,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0221893098205328,
+        "angle": 0.17126436531543732
+      },
+      {
+        "step": 103,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02203478291630745,
+        "angle": 0.1728833168745041
+      },
+      {
+        "step": 104,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02200625091791153,
+        "angle": 0.17447632551193237
+      },
+      {
+        "step": 105,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021941574290394783,
+        "angle": 0.1765059381723404
+      },
+      {
+        "step": 106,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.021904388442635536,
+        "angle": 0.18024273216724396
+      },
+      {
+        "step": 107,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02192092128098011,
+        "angle": 0.18300974369049072
+      },
+      {
+        "step": 108,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02194276452064514,
+        "angle": 0.18541914224624634
+      },
+      {
+        "step": 109,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02182689867913723,
+        "angle": 0.1880442202091217
+      },
+      {
+        "step": 110,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02186603471636772,
+        "angle": 0.1912497729063034
+      },
+      {
+        "step": 111,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022103937342762947,
+        "angle": 0.19412361085414886
+      },
+      {
+        "step": 112,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02241266332566738,
+        "angle": 0.19699928164482117
+      },
+      {
+        "step": 113,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.022741738706827164,
+        "angle": 0.19795945286750793
+      },
+      {
+        "step": 114,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.023165203630924225,
+        "angle": 0.19987674057483673
+      },
+      {
+        "step": 115,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02378852665424347,
+        "angle": 0.20151649415493011
+      },
+      {
+        "step": 116,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.024508139118552208,
+        "angle": 0.20316068828105927
+      },
+      {
+        "step": 117,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.024766817688941956,
+        "angle": 0.20520415902137756
+      },
+      {
+        "step": 118,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02501223236322403,
+        "angle": 0.20894929766654968
+      },
+      {
+        "step": 119,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02547203190624714,
+        "angle": 0.21180590987205505
+      },
+      {
+        "step": 120,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02596316672861576,
+        "angle": 0.21381956338882446
+      },
+      {
+        "step": 121,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02600940316915512,
+        "angle": 0.21770347654819489
+      },
+      {
+        "step": 122,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026064984500408173,
+        "angle": 0.22154758870601654
+      },
+      {
+        "step": 123,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026274222880601883,
+        "angle": 0.22454038262367249
+      },
+      {
+        "step": 124,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026705235242843628,
+        "angle": 0.22644548118114471
+      },
+      {
+        "step": 125,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.026955487206578255,
+        "angle": 0.22863802313804626
+      },
+      {
+        "step": 126,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02704382874071598,
+        "angle": 0.23266278207302094
+      },
+      {
+        "step": 127,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02728675678372383,
+        "angle": 0.2363465577363968
+      },
+      {
+        "step": 128,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02772400714457035,
+        "angle": 0.23898306488990784
+      },
+      {
+        "step": 129,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02810443565249443,
+        "angle": 0.24212950468063354
+      },
+      {
+        "step": 130,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.028502492234110832,
+        "angle": 0.2463734745979309
+      },
+      {
+        "step": 131,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.0289141945540905,
+        "angle": 0.24868814647197723
+      },
+      {
+        "step": 132,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.029517989605665207,
+        "angle": 0.2505640685558319
+      },
+      {
+        "step": 133,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.02981271594762802,
+        "angle": 0.25201666355133057
+      },
+      {
+        "step": 134,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030125077813863754,
+        "angle": 0.25517743825912476
+      },
+      {
+        "step": 135,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.030707193538546562,
+        "angle": 0.25862905383110046
+      },
+      {
+        "step": 136,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03150852769613266,
+        "angle": 0.26026293635368347
+      },
+      {
+        "step": 137,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03208357095718384,
+        "angle": 0.26047688722610474
+      },
+      {
+        "step": 138,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.032491423189640045,
+        "angle": 0.26265066862106323
+      },
+      {
+        "step": 139,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03300612419843674,
+        "angle": 0.26477688550949097
+      },
+      {
+        "step": 140,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.033497441560029984,
+        "angle": 0.26620715856552124
+      },
+      {
+        "step": 141,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03359954431653023,
+        "angle": 0.26713433861732483
+      },
+      {
+        "step": 142,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03370634466409683,
+        "angle": 0.2708875238895416
+      },
+      {
+        "step": 143,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03398510813713074,
+        "angle": 0.274262011051178
+      },
+      {
+        "step": 144,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03457755595445633,
+        "angle": 0.275729238986969
+      },
+      {
+        "step": 145,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.034867506474256516,
+        "angle": 0.27654775977134705
+      },
+      {
+        "step": 146,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03521016612648964,
+        "angle": 0.2789401113986969
+      },
+      {
+        "step": 147,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03570770099759102,
+        "angle": 0.28123316168785095
+      },
+      {
+        "step": 148,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03636748343706131,
+        "angle": 0.2837928235530853
+      },
+      {
+        "step": 149,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03680667653679848,
+        "angle": 0.2855868935585022
+      },
+      {
+        "step": 150,
+        "A": true,
+        "B": false,
+        "C": false,
+        "distance": 0.03706887364387512,
+        "angle": 0.28763774037361145
+      }
+    ]
+  }
+]

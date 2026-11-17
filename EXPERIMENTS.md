@@ -105,6 +105,23 @@
 - 少数接近到 1 cm 内但姿态超 10° 阈值；
 - 失败模式是**进入 1 cm 前停止收敛并漂走**，不是走错方向。
 
+### 4.3 诊断视频（已提交）
+
+`runs/videos_A/`、`runs/videos_B/`、`runs/videos_compare_A/` 共 14 个 mp4。每个视频上面是腕部相机、下面是全局相机，每帧叠加当前步数、到目标点的距离、姿态角和是否抓持。生成命令：
+
+```bash
+python -m charger.record_video --mode A --seeds 10000 10001 10006 --out runs/videos_A --scale 3
+python -m charger.record_video --mode B --seeds 0 205 --data data/formal_rgb --out runs/videos_B --scale 3
+python -m charger.compare_video --mode A --seeds 10000 10001 --out runs/videos_compare_A
+```
+
+逐帧数据在 `runs/videos_*/**/*_report.json`。视频中可直接看到的两点：
+
+- **A 失败**：夹爪全程没有闭合到抓持（`grasp 0`），末端停在充电器上方或侧面。
+- **B 失败**：最小距离能到 1.4–2.2 cm（接近 1 cm 门槛），随后**距离重新变大**到 2.8–4.2 cm。
+
+录制过程中发现并修正了一个真实缺陷：`record_video` 的第一版没有回放专家 A 前缀，B 策略从静止状态起步，`ever_grasped=False`、全部失败。修正后 B 出现成功样本（seed 205）。**任何 B/C 评估如果从 plain reset 开始都是无效的**，这条协议不能省。
+
 B|A 只有 5.2%（4/77），是当前全链的瓶颈。
 
 ---

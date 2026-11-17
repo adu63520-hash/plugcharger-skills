@@ -4,19 +4,24 @@ __pycache__/
 *.pyc
 *.egg-info/
 
-# Datasets and generated artifacts (multi-GB; regenerate with the commands in README.md)
+# Datasets and checkpoints: multi-GB, regenerate from the commands in README.md.
 data/*
 !data/README.md
-runs/*
-!runs/summary/
 
-# Large binaries
+# Per-run outputs. Only the compact result summary and the diagnostic video sets are
+# committed; everything else under runs/ (checkpoints, full traces, shard reports) is not.
+runs/*
+!runs/summary
+!runs/videos_A
+!runs/videos_B
+!runs/videos_compare_A
+
+# Large binaries: checkpoints, caches and numpy arrays stay out.
 *.h5
 *.npy
 *.npz
 *.pt
 *.tmp
-*.mp4
 
 # OS noise
 Thumbs.db

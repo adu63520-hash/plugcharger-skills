@@ -11,6 +11,7 @@
 - Linux 或原生 Windows 均可跑训练与评估。
 - **采集需要 `mplib`**（官方 planner 依赖），它只有 Linux wheel。Windows 下可以训练和评估，但不能运行 `charger.collect`。
 - 实测环境：Python 3.12、torch 2.5.1+cu121、mani_skill 3.0.1、sapien 3.0.3、RTX 2080 Ti 22 GiB。
+- Windows + WSL 本机实测：WSL Ubuntu-22.04 里 `mplib 0.1.1`、CUDA 均可用，但 **SAPIEN 初始化渲染时崩溃**（`vk::createInstanceUnique: ErrorIncompatibleDriver`，缺 Vulkan ICD），即使 `render_backend='cpu'` 也不行；Windows 端渲染正常但缺 `mplib`。两端各缺一半，采集前需要先解决其中之一。
 
 ```bash
 python -m venv .venv
@@ -91,6 +92,28 @@ python -m charger.summarize --runs runs --out runs/summary/results.json
 - `validate_rgb` / `validate_shards`：单次正演逐条校验阶段边界能否复现、episode 尾部是否被污染、最小插入距离。全量 569 条约 6.5 分钟。
 - `repro`：逐 replan 记录两次 rollout 的模型输入，定位“从哪一步开始不一样”。
 - `summarize`：把数 MB 的评估结果压缩成 `runs/summary/results.json`（进仓库的那份）。
+
+## 诊断视频
+
+```bash
+# 单条 rollout，双视角 + 标注（步数 / 距离 / 姿态角 / 是否抓持）
+python -m charger.record_video --mode A --seeds 10000 10001 --out runs/videos_A --scale 3
+python -m charger.record_video --mode B --seeds 0 205 --data data/formal_rgb --out runs/videos_B
+
+# 成功 vs 失败并排对齐播放
+python -m charger.compare_video --mode A --seeds 10000 10001 --out runs/videos_compare_A
+```
+
+`record_video` 的 `--mode B` 必须配合 `--data` 使用：B 的起点是 held-out 专家 A 边界，需要先回放专家前缀恢复真实接触。从 plain reset 开始的 B/C 评估无效。
+
+## 问题诊断顺序（实测有效）
+
+发现技能失败时，按这个顺序排查，每一步都能排除一整类原因：
+
+1. **专家能不能复现？** `validate_shards`。A 569/569、B 边界 0 条不符、C 只 391/569。
+2. **失败是卡死还是走偏？** `record_video` 看 `grasp` 和距离序列。
+3. **是不是评估协议错了？** 检查是否漏了专家前缀（B/C）、是否用了正确的 seed 起点。
+4. **换个输入能不能修？** 用对照实验（如 `--camera hand_camera,base_camera`），不靠猜。
 
 ## 测试
 
