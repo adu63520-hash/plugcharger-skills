@@ -1,0 +1,47 @@
+{
+  "source": "data/formal_rgb",
+  "stage": "C",
+  "cameras": [
+    "hand_camera",
+    "base_camera"
+  ],
+  "episodes": [
+    {
+      "seed": 1,
+      "trajectory": "traj_seed1",
+      "source": "traj_1",
+      "start": 112,
+      "end": 147,
+      "steps": 35,
+      "reset_kwargs": {
+        "options": null,
+        "seed": 1
+      }
+    },
+    {
+      "seed": 2,
+      "trajectory": "traj_seed2",
+      "source": "traj_2",
+      "start": 118,
+      "end": 155,
+      "steps": 37,
+      "reset_kwargs": {
+        "options": null,
+        "seed": 2
+      }
+    },
+    {
+      "seed": 3,
+      "trajectory": "traj_seed3",
+      "source": "traj_3",
+      "start": 105,
+      "end": 141,
+      "steps": 36,
+      "reset_kwargs": {
+        "options": null,
+        "seed": 3
+      }
+    }
+  ],
+  "note": "actions/labels are sliced to this stage only; rgb is uint8 128x128"
+}
