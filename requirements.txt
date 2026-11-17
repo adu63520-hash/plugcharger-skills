@@ -1,0 +1,6 @@
+mani_skill==3.0.1
+torch>=2.5
+torchvision>=0.20
+h5py>=3.11
+numpy>=1.26
+mplib==0.1.1; sys_platform == 'linux'

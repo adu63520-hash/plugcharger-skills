@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Datasets and generated artifacts (multi-GB; regenerate with the commands in README.md)
+data/*
+!data/README.md
+runs/*
+!runs/summary/
+
+# Large binaries
+*.h5
+*.npy
+*.npz
+*.pt
+*.tmp
+*.mp4
+
+# OS noise
+Thumbs.db
+.DS_Store

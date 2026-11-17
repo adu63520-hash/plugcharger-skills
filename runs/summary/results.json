@@ -1,0 +1,6704 @@
+{
+  "evaluations": [
+    {
+      "file": "A_100.json",
+      "description": "A single-view, new seeds 10000-10099, budget 200",
+      "mode": "A",
+      "checkpoints": "runs/formal",
+      "episodes": 100,
+      "start_seed": 10000,
+      "budget": 200,
+      "action_steps": 4,
+      "inference_steps": 20,
+      "policy_seed": 0,
+      "success": 71,
+      "n": 100,
+      "success_rate": 0.71,
+      "wilson_95": [
+        0.6146,
+        0.7899
+      ],
+      "stage_A": {
+        "success": 71,
+        "n": 100,
+        "rate": 0.71,
+        "wilson_95": [
+          0.6146,
+          0.7899
+        ]
+      },
+      "per_episode": [
+        {
+          "seed": 10000,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10001,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10002,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10003,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 147
+            }
+          }
+        },
+        {
+          "seed": 10004,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 83
+            }
+          }
+        },
+        {
+          "seed": 10005,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 119
+            }
+          }
+        },
+        {
+          "seed": 10006,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10007,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10008,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            }
+          }
+        },
+        {
+          "seed": 10009,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            }
+          }
+        },
+        {
+          "seed": 10010,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10011,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 78
+            }
+          }
+        },
+        {
+          "seed": 10012,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10013,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            }
+          }
+        },
+        {
+          "seed": 10014,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 95
+            }
+          }
+        },
+        {
+          "seed": 10015,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10016,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10017,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 123
+            }
+          }
+        },
+        {
+          "seed": 10018,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 70
+            }
+          }
+        },
+        {
+          "seed": 10019,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10020,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 106
+            }
+          }
+        },
+        {
+          "seed": 10021,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10022,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 87
+            }
+          }
+        },
+        {
+          "seed": 10023,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10024,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10025,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10026,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10027,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10028,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 87
+            }
+          }
+        },
+        {
+          "seed": 10029,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10030,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            }
+          }
+        },
+        {
+          "seed": 10031,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10032,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 126
+            }
+          }
+        },
+        {
+          "seed": 10033,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10034,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10035,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10036,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 95
+            }
+          }
+        },
+        {
+          "seed": 10037,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10038,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10039,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 108
+            }
+          }
+        },
+        {
+          "seed": 10040,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 122
+            }
+          }
+        },
+        {
+          "seed": 10041,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10042,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 136
+            }
+          }
+        },
+        {
+          "seed": 10043,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10044,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 93
+            }
+          }
+        },
+        {
+          "seed": 10045,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 134
+            }
+          }
+        },
+        {
+          "seed": 10046,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            }
+          }
+        },
+        {
+          "seed": 10047,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 117
+            }
+          }
+        },
+        {
+          "seed": 10048,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 111
+            }
+          }
+        },
+        {
+          "seed": 10049,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10050,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            }
+          }
+        },
+        {
+          "seed": 10051,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 10052,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 110
+            }
+          }
+        },
+        {
+          "seed": 10053,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            }
+          }
+        },
+        {
+          "seed": 10054,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 105
+            }
+          }
+        },
+        {
+          "seed": 10055,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 124
+            }
+          }
+        },
+        {
+          "seed": 10056,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 78
+            }
+          }
+        },
+        {
+          "seed": 10057,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10058,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 126
+            }
+          }
+        },
+        {
+          "seed": 10059,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 184
+            }
+          }
+        },
+        {
+          "seed": 10060,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10061,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10062,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10063,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 123
+            }
+          }
+        },
+        {
+          "seed": 10064,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10065,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 156
+            }
+          }
+        },
+        {
+          "seed": 10066,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10067,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10068,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 81
+            }
+          }
+        },
+        {
+          "seed": 10069,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10070,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 10071,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10072,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 85
+            }
+          }
+        },
+        {
+          "seed": 10073,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 75
+            }
+          }
+        },
+        {
+          "seed": 10074,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 10075,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 83
+            }
+          }
+        },
+        {
+          "seed": 10076,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10077,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10078,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10079,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10080,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10081,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 108
+            }
+          }
+        },
+        {
+          "seed": 10082,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10083,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10084,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 62
+            }
+          }
+        },
+        {
+          "seed": 10085,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10086,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10087,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            }
+          }
+        },
+        {
+          "seed": 10088,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 97
+            }
+          }
+        },
+        {
+          "seed": 10089,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10090,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            }
+          }
+        },
+        {
+          "seed": 10091,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 107
+            }
+          }
+        },
+        {
+          "seed": 10092,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 123
+            }
+          }
+        },
+        {
+          "seed": 10093,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 90
+            }
+          }
+        },
+        {
+          "seed": 10094,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 107
+            }
+          }
+        },
+        {
+          "seed": 10095,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 123
+            }
+          }
+        },
+        {
+          "seed": 10096,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 106
+            }
+          }
+        },
+        {
+          "seed": 10097,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10098,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10099,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "A_100_rep.json",
+      "description": "A single-view, identical config re-run (reproducibility check)",
+      "mode": "A",
+      "checkpoints": "runs/formal",
+      "episodes": 100,
+      "start_seed": 10000,
+      "budget": 200,
+      "action_steps": 4,
+      "inference_steps": 20,
+      "policy_seed": 0,
+      "success": 76,
+      "n": 100,
+      "success_rate": 0.76,
+      "wilson_95": [
+        0.6677,
+        0.8331
+      ],
+      "stage_A": {
+        "success": 76,
+        "n": 100,
+        "rate": 0.76,
+        "wilson_95": [
+          0.6677,
+          0.8331
+        ]
+      },
+      "per_episode": [
+        {
+          "seed": 10000,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10001,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10002,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10003,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            }
+          }
+        },
+        {
+          "seed": 10004,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10005,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            }
+          }
+        },
+        {
+          "seed": 10006,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10007,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10008,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 127
+            }
+          }
+        },
+        {
+          "seed": 10009,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 73
+            }
+          }
+        },
+        {
+          "seed": 10010,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10011,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            }
+          }
+        },
+        {
+          "seed": 10012,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10013,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            }
+          }
+        },
+        {
+          "seed": 10014,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10015,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10016,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10017,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10018,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 73
+            }
+          }
+        },
+        {
+          "seed": 10019,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10020,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10021,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 159
+            }
+          }
+        },
+        {
+          "seed": 10022,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 83
+            }
+          }
+        },
+        {
+          "seed": 10023,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10024,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10025,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            }
+          }
+        },
+        {
+          "seed": 10026,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 124
+            }
+          }
+        },
+        {
+          "seed": 10027,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10028,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 103
+            }
+          }
+        },
+        {
+          "seed": 10029,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10030,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 87
+            }
+          }
+        },
+        {
+          "seed": 10031,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 184
+            }
+          }
+        },
+        {
+          "seed": 10032,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 85
+            }
+          }
+        },
+        {
+          "seed": 10033,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10034,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            }
+          }
+        },
+        {
+          "seed": 10035,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 104
+            }
+          }
+        },
+        {
+          "seed": 10036,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 10037,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10038,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10039,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            }
+          }
+        },
+        {
+          "seed": 10040,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10041,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10042,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10043,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10044,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 109
+            }
+          }
+        },
+        {
+          "seed": 10045,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            }
+          }
+        },
+        {
+          "seed": 10046,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10047,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10048,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 110
+            }
+          }
+        },
+        {
+          "seed": 10049,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10050,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10051,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            }
+          }
+        },
+        {
+          "seed": 10052,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            }
+          }
+        },
+        {
+          "seed": 10053,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10054,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 132
+            }
+          }
+        },
+        {
+          "seed": 10055,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 118
+            }
+          }
+        },
+        {
+          "seed": 10056,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10057,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10058,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10059,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10060,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10061,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 104
+            }
+          }
+        },
+        {
+          "seed": 10062,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 97
+            }
+          }
+        },
+        {
+          "seed": 10063,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10064,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 79
+            }
+          }
+        },
+        {
+          "seed": 10065,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 119
+            }
+          }
+        },
+        {
+          "seed": 10066,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10067,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 93
+            }
+          }
+        },
+        {
+          "seed": 10068,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            }
+          }
+        },
+        {
+          "seed": 10069,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10070,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 72
+            }
+          }
+        },
+        {
+          "seed": 10071,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 172
+            }
+          }
+        },
+        {
+          "seed": 10072,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10073,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 71
+            }
+          }
+        },
+        {
+          "seed": 10074,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 10075,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10076,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10077,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            }
+          }
+        },
+        {
+          "seed": 10078,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10079,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10080,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10081,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 113
+            }
+          }
+        },
+        {
+          "seed": 10082,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10083,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 101
+            }
+          }
+        },
+        {
+          "seed": 10084,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 64
+            }
+          }
+        },
+        {
+          "seed": 10085,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10086,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10087,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10088,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10089,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 114
+            }
+          }
+        },
+        {
+          "seed": 10090,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            }
+          }
+        },
+        {
+          "seed": 10091,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10092,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10093,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 78
+            }
+          }
+        },
+        {
+          "seed": 10094,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 106
+            }
+          }
+        },
+        {
+          "seed": 10095,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10096,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 116
+            }
+          }
+        },
+        {
+          "seed": 10097,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10098,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10099,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "A_dual_100.json",
+      "description": "A dual-view (hand+base camera), new seeds 10000-10099",
+      "mode": "A",
+      "checkpoints": "runs/dual",
+      "episodes": 100,
+      "start_seed": 10000,
+      "budget": 200,
+      "action_steps": 4,
+      "inference_steps": 20,
+      "policy_seed": 0,
+      "success": 62,
+      "n": 100,
+      "success_rate": 0.62,
+      "wilson_95": [
+        0.5221,
+        0.709
+      ],
+      "stage_A": {
+        "success": 62,
+        "n": 100,
+        "rate": 0.62,
+        "wilson_95": [
+          0.5221,
+          0.709
+        ]
+      },
+      "per_episode": [
+        {
+          "seed": 10000,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10001,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 72
+            }
+          }
+        },
+        {
+          "seed": 10002,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10003,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10004,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 83
+            }
+          }
+        },
+        {
+          "seed": 10005,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10006,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10007,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10008,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 137
+            }
+          }
+        },
+        {
+          "seed": 10009,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 121
+            }
+          }
+        },
+        {
+          "seed": 10010,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 103
+            }
+          }
+        },
+        {
+          "seed": 10011,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            }
+          }
+        },
+        {
+          "seed": 10012,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 127
+            }
+          }
+        },
+        {
+          "seed": 10013,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            }
+          }
+        },
+        {
+          "seed": 10014,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10015,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 106
+            }
+          }
+        },
+        {
+          "seed": 10016,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 69
+            }
+          }
+        },
+        {
+          "seed": 10017,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 126
+            }
+          }
+        },
+        {
+          "seed": 10018,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            }
+          }
+        },
+        {
+          "seed": 10019,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10020,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10021,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10022,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10023,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            }
+          }
+        },
+        {
+          "seed": 10024,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 108
+            }
+          }
+        },
+        {
+          "seed": 10025,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10026,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10027,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10028,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 87
+            }
+          }
+        },
+        {
+          "seed": 10029,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10030,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10031,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 103
+            }
+          }
+        },
+        {
+          "seed": 10032,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 86
+            }
+          }
+        },
+        {
+          "seed": 10033,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 107
+            }
+          }
+        },
+        {
+          "seed": 10034,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            }
+          }
+        },
+        {
+          "seed": 10035,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            }
+          }
+        },
+        {
+          "seed": 10036,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10037,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10038,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10039,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 116
+            }
+          }
+        },
+        {
+          "seed": 10040,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10041,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 156
+            }
+          }
+        },
+        {
+          "seed": 10042,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 172
+            }
+          }
+        },
+        {
+          "seed": 10043,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10044,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10045,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10046,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 90
+            }
+          }
+        },
+        {
+          "seed": 10047,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 128
+            }
+          }
+        },
+        {
+          "seed": 10048,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10049,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            }
+          }
+        },
+        {
+          "seed": 10050,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 78
+            }
+          }
+        },
+        {
+          "seed": 10051,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            }
+          }
+        },
+        {
+          "seed": 10052,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10053,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 124
+            }
+          }
+        },
+        {
+          "seed": 10054,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            }
+          }
+        },
+        {
+          "seed": 10055,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 119
+            }
+          }
+        },
+        {
+          "seed": 10056,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10057,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            }
+          }
+        },
+        {
+          "seed": 10058,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10059,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 85
+            }
+          }
+        },
+        {
+          "seed": 10060,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10061,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10062,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 74
+            }
+          }
+        },
+        {
+          "seed": 10063,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 123
+            }
+          }
+        },
+        {
+          "seed": 10064,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            }
+          }
+        },
+        {
+          "seed": 10065,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10066,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10067,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10068,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            }
+          }
+        },
+        {
+          "seed": 10069,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 85
+            }
+          }
+        },
+        {
+          "seed": 10070,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 10071,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10072,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            }
+          }
+        },
+        {
+          "seed": 10073,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 10074,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 93
+            }
+          }
+        },
+        {
+          "seed": 10075,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10076,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10077,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 81
+            }
+          }
+        },
+        {
+          "seed": 10078,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10079,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 79
+            }
+          }
+        },
+        {
+          "seed": 10080,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 93
+            }
+          }
+        },
+        {
+          "seed": 10081,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 77
+            }
+          }
+        },
+        {
+          "seed": 10082,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            }
+          }
+        },
+        {
+          "seed": 10083,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10084,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 62
+            }
+          }
+        },
+        {
+          "seed": 10085,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10086,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10087,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10088,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10089,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            }
+          }
+        },
+        {
+          "seed": 10090,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10091,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10092,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            }
+          }
+        },
+        {
+          "seed": 10093,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10094,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10095,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 10096,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 125
+            }
+          }
+        },
+        {
+          "seed": 10097,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 179
+            }
+          }
+        },
+        {
+          "seed": 10098,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            }
+          }
+        },
+        {
+          "seed": 10099,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "AB_192.json",
+      "description": "AB chain, new seeds, no reset between skills",
+      "mode": "AB",
+      "checkpoints": "runs/formal",
+      "episodes": 100,
+      "start_seed": 10000,
+      "budget": 192,
+      "action_steps": 4,
+      "inference_steps": 20,
+      "policy_seed": 0,
+      "success": 4,
+      "n": 100,
+      "success_rate": 0.04,
+      "wilson_95": [
+        0.0157,
+        0.0984
+      ],
+      "stage_A": {
+        "success": 77,
+        "n": 100,
+        "rate": 0.77,
+        "wilson_95": [
+          0.6785,
+          0.8416
+        ]
+      },
+      "stage_B": {
+        "success": 4,
+        "n": 77,
+        "rate": 0.0519,
+        "wilson_95": [
+          0.0204,
+          0.1261
+        ]
+      },
+      "per_episode": [
+        {
+          "seed": 10000,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10001,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10002,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10003,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10004,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10005,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10006,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10007,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10008,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 127
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10009,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 73
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10010,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10011,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10012,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10013,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10014,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            },
+            "B": {
+              "success": true,
+              "steps": 43
+            }
+          }
+        },
+        {
+          "seed": 10015,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10016,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10017,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10018,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 73
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10019,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10020,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10021,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 159
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10022,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 83
+            },
+            "B": {
+              "success": true,
+              "steps": 30
+            }
+          }
+        },
+        {
+          "seed": 10023,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10024,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10025,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10026,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 124
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10027,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10028,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 103
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10029,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10030,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 87
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10031,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 179
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10032,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 85
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10033,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10034,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10035,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 104
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10036,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10037,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10038,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10039,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10040,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10041,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10042,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": true,
+              "steps": 151
+            }
+          }
+        },
+        {
+          "seed": 10043,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10044,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 109
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10045,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10046,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10047,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10048,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 110
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10049,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 116
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10050,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10051,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10052,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 95
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10053,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10054,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 132
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10055,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 118
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10056,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10057,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10058,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10059,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10060,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10061,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 104
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10062,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 97
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10063,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10064,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 79
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10065,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 119
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10066,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10067,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 93
+            },
+            "B": {
+              "success": true,
+              "steps": 59
+            }
+          }
+        },
+        {
+          "seed": 10068,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10069,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10070,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 72
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10071,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 172
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10072,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10073,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 71
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10074,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10075,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10076,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10077,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10078,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10079,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10080,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10081,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 113
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10082,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10083,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 101
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10084,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 64
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10085,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10086,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10087,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10088,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10089,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 114
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10090,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10091,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10092,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10093,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 78
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10094,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 106
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10095,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10096,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 116
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10097,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10098,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        },
+        {
+          "seed": 10099,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            },
+            "B": {
+              "success": false,
+              "steps": 192
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "AB_100.json",
+      "description": "AB chain with budget 150 (A stage cut short; not comparable to AB_192)",
+      "mode": "AB",
+      "checkpoints": "runs/formal",
+      "episodes": 100,
+      "start_seed": 10000,
+      "budget": 150,
+      "action_steps": 4,
+      "inference_steps": 20,
+      "policy_seed": 0,
+      "success": 3,
+      "n": 100,
+      "success_rate": 0.03,
+      "wilson_95": [
+        0.0103,
+        0.0845
+      ],
+      "stage_A": {
+        "success": 74,
+        "n": 100,
+        "rate": 0.74,
+        "wilson_95": [
+          0.6463,
+          0.816
+        ]
+      },
+      "stage_B": {
+        "success": 3,
+        "n": 74,
+        "rate": 0.0405,
+        "wilson_95": [
+          0.0139,
+          0.1125
+        ]
+      },
+      "per_episode": [
+        {
+          "seed": 10000,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10001,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10002,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10003,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10004,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10005,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 112
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10006,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10007,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10008,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 127
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10009,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 73
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10010,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10011,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10012,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10013,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 82
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10014,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            },
+            "B": {
+              "success": true,
+              "steps": 43
+            }
+          }
+        },
+        {
+          "seed": 10015,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10016,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10017,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10018,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 73
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10019,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10020,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10021,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10022,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 83
+            },
+            "B": {
+              "success": true,
+              "steps": 30
+            }
+          }
+        },
+        {
+          "seed": 10023,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10024,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10025,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10026,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 123
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10027,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10028,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 103
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10029,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10030,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 87
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10031,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10032,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 85
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10033,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10034,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 68
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10035,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 104
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10036,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10037,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 92
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10038,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10039,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 80
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10040,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10041,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10042,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10043,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10044,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 109
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10045,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10046,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10047,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 88
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10048,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 110
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10049,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 116
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10050,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10051,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 99
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10052,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10053,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10054,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 132
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10055,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 118
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10056,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10057,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10058,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10059,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10060,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10061,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 104
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10062,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 97
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10063,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10064,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 79
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10065,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 119
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10066,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10067,
+          "success": true,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 93
+            },
+            "B": {
+              "success": true,
+              "steps": 62
+            }
+          }
+        },
+        {
+          "seed": 10068,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10069,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10070,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 72
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10071,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10072,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10073,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 71
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10074,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 89
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10075,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10076,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10077,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 84
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10078,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10079,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10080,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10081,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 113
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10082,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 98
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10083,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 101
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10084,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 64
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10085,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 94
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10086,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10087,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10088,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10089,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 114
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10090,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 76
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10091,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 100
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10092,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 102
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10093,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 78
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10094,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 106
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10095,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 96
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10096,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 116
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10097,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10098,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 91
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        },
+        {
+          "seed": 10099,
+          "success": false,
+          "stages": {
+            "A": {
+              "success": true,
+              "steps": 120
+            },
+            "B": {
+              "success": false,
+              "steps": 150
+            }
+          }
+        }
+      ]
+    },
+    {
+      "file": "B_50.json",
+      "description": "B started from held-out expert A-prefixes, 50 episodes",
+      "mode": "B",
+      "checkpoints": "runs/formal",
+      "episodes": 50,
+      "start_seed": 10000,
+      "budget": 200,
+      "action_steps": 4,
+      "inference_steps": 20,
+      "policy_seed": 0,
+      "success": 10,
+      "n": 50,
+      "success_rate": 0.2,
+      "wilson_95": [
+        0.1124,
+        0.3304
+      ],
+      "stage_B": {
+        "success": 10,
+        "n": 50,
+        "rate": 0.2,
+        "wilson_95": [
+          0.1124,
+          0.3304
+        ]
+      },
+      "per_episode": [
+        {
+          "seed": 0,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 139,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 144,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 161,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 205,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 72
+            }
+          }
+        },
+        {
+          "seed": 206,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 211,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 218,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 273,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 279,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 56
+            }
+          }
+        },
+        {
+          "seed": 283,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 73
+            }
+          }
+        },
+        {
+          "seed": 286,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 38,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 390,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 409,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 63
+            }
+          }
+        },
+        {
+          "seed": 460,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 121,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 127,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 178,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 236,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 239,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 243,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 347,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 358,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 425,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 435,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 492,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 57,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 88
+            }
+          }
+        },
+        {
+          "seed": 71,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 85,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 97,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 521,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 51
+            }
+          }
+        },
+        {
+          "seed": 538,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 57
+            }
+          }
+        },
+        {
+          "seed": 562,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 578,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 583,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 52
+            }
+          }
+        },
+        {
+          "seed": 591,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 622,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 637,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 648,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 659,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 676,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 722,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 52
+            }
+          }
+        },
+        {
+          "seed": 723,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 734,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 740,
+          "success": true,
+          "stages": {
+            "B": {
+              "success": true,
+              "steps": 89
+            }
+          }
+        },
+        {
+          "seed": 749,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 791,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 822,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        },
+        {
+          "seed": 849,
+          "success": false,
+          "stages": {
+            "B": {
+              "success": false,
+              "steps": 200
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "training": [
+    {
+      "run": "formal/A",
+      "stage": "A",
+      "config": {
+        "data": "data/formal_rgb",
+        "stage": "A",
+        "camera": "hand_camera",
+        "proprio": true,
+        "steps": 12000,
+        "batch_size": 64,
+        "out": "runs/formal",
+        "seed": 0,
+        "eval_every": 1000,
+        "val_batches": 64,
+        "preload": false,
+        "amp": true,
+        "resume": null,
+        "encoder_kind": "spatial",
+        "relative_actions": true,
+        "frame_cache": "data/frame_cache"
+      },
+      "steps_completed": 12000,
+      "first_val_loss": 1.277679,
+      "final_val_loss": 0.00703,
+      "best_val_loss": 0.00703,
+      "best_step": 12000,
+      "curve": [
+        {
+          "step": 1,
+          "train_loss": 1.2651,
+          "validation_loss": 1.277679
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.037148,
+          "validation_loss": 0.038699
+        },
+        {
+          "step": 2000,
+          "train_loss": 0.015323,
+          "validation_loss": 0.020417
+        },
+        {
+          "step": 3000,
+          "train_loss": 0.017283,
+          "validation_loss": 0.015217
+        },
+        {
+          "step": 4000,
+          "train_loss": 0.017293,
+          "validation_loss": 0.012422
+        },
+        {
+          "step": 5000,
+          "train_loss": 0.011863,
+          "validation_loss": 0.010682
+        },
+        {
+          "step": 6000,
+          "train_loss": 0.010113,
+          "validation_loss": 0.009478
+        },
+        {
+          "step": 7000,
+          "train_loss": 0.008785,
+          "validation_loss": 0.008594
+        },
+        {
+          "step": 8000,
+          "train_loss": 0.008917,
+          "validation_loss": 0.007967
+        },
+        {
+          "step": 9000,
+          "train_loss": 0.007298,
+          "validation_loss": 0.007496
+        },
+        {
+          "step": 10000,
+          "train_loss": 0.007692,
+          "validation_loss": 0.007236
+        },
+        {
+          "step": 11000,
+          "train_loss": 0.004896,
+          "validation_loss": 0.007064
+        },
+        {
+          "step": 12000,
+          "train_loss": 0.004522,
+          "validation_loss": 0.00703
+        }
+      ]
+    },
+    {
+      "run": "formal/B",
+      "stage": "B",
+      "config": {
+        "data": "data/formal_rgb",
+        "stage": "B",
+        "camera": "hand_camera",
+        "proprio": true,
+        "steps": 12000,
+        "batch_size": 64,
+        "out": "runs/formal",
+        "seed": 0,
+        "eval_every": 1000,
+        "val_batches": 64,
+        "preload": false,
+        "amp": true,
+        "resume": null,
+        "encoder_kind": "spatial",
+        "relative_actions": true,
+        "frame_cache": "data/frame_cache"
+      },
+      "steps_completed": 12000,
+      "first_val_loss": 1.302013,
+      "final_val_loss": 0.007672,
+      "best_val_loss": 0.007672,
+      "best_step": 12000,
+      "curve": [
+        {
+          "step": 1,
+          "train_loss": 1.284741,
+          "validation_loss": 1.302013
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.027758,
+          "validation_loss": 0.036493
+        },
+        {
+          "step": 2000,
+          "train_loss": 0.016677,
+          "validation_loss": 0.019218
+        },
+        {
+          "step": 3000,
+          "train_loss": 0.017166,
+          "validation_loss": 0.01461
+        },
+        {
+          "step": 4000,
+          "train_loss": 0.012909,
+          "validation_loss": 0.012124
+        },
+        {
+          "step": 5000,
+          "train_loss": 0.011237,
+          "validation_loss": 0.010373
+        },
+        {
+          "step": 6000,
+          "train_loss": 0.011354,
+          "validation_loss": 0.009329
+        },
+        {
+          "step": 7000,
+          "train_loss": 0.006559,
+          "validation_loss": 0.008638
+        },
+        {
+          "step": 8000,
+          "train_loss": 0.008717,
+          "validation_loss": 0.008195
+        },
+        {
+          "step": 9000,
+          "train_loss": 0.005761,
+          "validation_loss": 0.007865
+        },
+        {
+          "step": 10000,
+          "train_loss": 0.007182,
+          "validation_loss": 0.007796
+        },
+        {
+          "step": 11000,
+          "train_loss": 0.005514,
+          "validation_loss": 0.007748
+        },
+        {
+          "step": 12000,
+          "train_loss": 0.004061,
+          "validation_loss": 0.007672
+        }
+      ]
+    },
+    {
+      "run": "dual/A",
+      "stage": "A (dual-view)",
+      "config": {
+        "data": "data/formal_rgb",
+        "stage": "A",
+        "camera": "hand_camera,base_camera",
+        "proprio": true,
+        "steps": 12000,
+        "batch_size": 64,
+        "out": "runs/dual",
+        "seed": 0,
+        "eval_every": 1000,
+        "val_batches": 32,
+        "preload": false,
+        "amp": true,
+        "resume": null,
+        "encoder_kind": "spatial",
+        "relative_actions": true,
+        "frame_cache": "data/frame_cache_dual"
+      },
+      "steps_completed": 12000,
+      "first_val_loss": 1.198114,
+      "final_val_loss": 0.007415,
+      "best_val_loss": 0.007415,
+      "best_step": 12000,
+      "curve": [
+        {
+          "step": 1,
+          "train_loss": 1.216198,
+          "validation_loss": 1.198114
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.035177,
+          "validation_loss": 0.039481
+        },
+        {
+          "step": 2000,
+          "train_loss": 0.016635,
+          "validation_loss": 0.019968
+        },
+        {
+          "step": 3000,
+          "train_loss": 0.018048,
+          "validation_loss": 0.014969
+        },
+        {
+          "step": 4000,
+          "train_loss": 0.013258,
+          "validation_loss": 0.012344
+        },
+        {
+          "step": 5000,
+          "train_loss": 0.01265,
+          "validation_loss": 0.010643
+        },
+        {
+          "step": 6000,
+          "train_loss": 0.012909,
+          "validation_loss": 0.009448
+        },
+        {
+          "step": 7000,
+          "train_loss": 0.005574,
+          "validation_loss": 0.008701
+        },
+        {
+          "step": 8000,
+          "train_loss": 0.009932,
+          "validation_loss": 0.00799
+        },
+        {
+          "step": 9000,
+          "train_loss": 0.006191,
+          "validation_loss": 0.007732
+        },
+        {
+          "step": 10000,
+          "train_loss": 0.006552,
+          "validation_loss": 0.007573
+        },
+        {
+          "step": 11000,
+          "train_loss": 0.005531,
+          "validation_loss": 0.007455
+        },
+        {
+          "step": 12000,
+          "train_loss": 0.007166,
+          "validation_loss": 0.007415
+        }
+      ]
+    },
+    {
+      "run": "formal_labels_invalid/C",
+      "stage": "C (trained on invalid labels, isolated on purpose)",
+      "config": {
+        "data": "data/formal_rgb",
+        "stage": "C",
+        "camera": "hand_camera",
+        "proprio": true,
+        "steps": 12000,
+        "batch_size": 64,
+        "out": "runs/formal_labels_invalid",
+        "seed": 0,
+        "eval_every": 1000,
+        "val_batches": 64,
+        "preload": false,
+        "amp": true,
+        "resume": null,
+        "encoder_kind": "spatial",
+        "relative_actions": true,
+        "frame_cache": "data/frame_cache"
+      },
+      "steps_completed": 12000,
+      "first_val_loss": 1.327596,
+      "final_val_loss": 0.007981,
+      "best_val_loss": 0.007812,
+      "best_step": 9000,
+      "curve": [
+        {
+          "step": 1,
+          "train_loss": 1.316932,
+          "validation_loss": 1.327596
+        },
+        {
+          "step": 1000,
+          "train_loss": 0.028008,
+          "validation_loss": 0.03323
+        },
+        {
+          "step": 2000,
+          "train_loss": 0.014152,
+          "validation_loss": 0.017196
+        },
+        {
+          "step": 3000,
+          "train_loss": 0.014604,
+          "validation_loss": 0.012733
+        },
+        {
+          "step": 4000,
+          "train_loss": 0.012126,
+          "validation_loss": 0.010792
+        },
+        {
+          "step": 5000,
+          "train_loss": 0.011525,
+          "validation_loss": 0.009567
+        },
+        {
+          "step": 6000,
+          "train_loss": 0.008916,
+          "validation_loss": 0.008849
+        },
+        {
+          "step": 7000,
+          "train_loss": 0.006711,
+          "validation_loss": 0.008353
+        },
+        {
+          "step": 8000,
+          "train_loss": 0.009552,
+          "validation_loss": 0.007985
+        },
+        {
+          "step": 9000,
+          "train_loss": 0.009977,
+          "validation_loss": 0.007812
+        },
+        {
+          "step": 10000,
+          "train_loss": 0.005183,
+          "validation_loss": 0.007852
+        },
+        {
+          "step": 11000,
+          "train_loss": 0.004876,
+          "validation_loss": 0.007921
+        },
+        {
+          "step": 12000,
+          "train_loss": 0.005075,
+          "validation_loss": 0.007981
+        }
+      ]
+    }
+  ],
+  "missing": [],
+  "data_validation": {
+    "n": 569,
+    "exact_boundary_match": 387,
+    "exact_rate": 0.6801,
+    "final_success_true": 394,
+    "missing_boundary": 175,
+    "diverged_by_stage": {
+      "A": 2,
+      "B": 0,
+      "C": 5
+    },
+    "contaminated_tail": 568,
+    "replay_terminated_early": 394,
+    "min_distance_over_5mm": 569,
+    "obs_mode": "none",
+    "render_backend": "none",
+    "shards": 4,
+    "seconds": 395.1
+  }
+}
